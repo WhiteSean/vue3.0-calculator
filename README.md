@@ -1,4 +1,7 @@
-# vue3.0
+# vue3.0实现一个简单的计算器
+````
+vue3.0 、 vue-composition-api
+```
 
 ## Project setup
 ```
